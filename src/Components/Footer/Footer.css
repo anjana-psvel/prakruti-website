@@ -1,0 +1,50 @@
+.footer {
+  background:url('../../assets/footer.png');
+    /* background-color:#11424Bff; */
+    padding: 10px 0;
+    text-align: center;
+    color:white;
+  }
+  
+  .container1 {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+  
+  .footer__title {
+    font-weight: bold;
+    font-size: 2rem;
+    margin-bottom: 30px;
+  }
+  
+  .footer__contacts,
+  .footer__social,
+  .footer__copyright {
+    margin-bottom: 10px;
+    font-size: 1rem;
+    
+    /* width:20px; */
+  }
+  
+  .footer__social {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    /* color:white; */
+  }
+  
+  .footer__social a {
+    color: #000;
+    font-size: 1.6rem;
+  }
+  
+  .footer__social a:hover {
+    color: #333;
+  }
+  .ri-linkedin-box-line{
+    color:white;
+  }
+  .ri-instagram-line{
+    color:white;
+  }
+  

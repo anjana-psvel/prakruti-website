@@ -1,0 +1,11 @@
+.works{
+    background:  no-repeat center;
+    background-size: cover;
+    background-color: #A7D0CAff;
+    text-align: center;
+    padding-right:10%;
+    padding-left:10%;
+    /* padding-bottom: 10px; */
+    position: relative;
+    /* top: 90px; */
+}
