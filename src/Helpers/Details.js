@@ -1,4 +1,11 @@
 import person from '../assets/person1.jpg'
+import hemanth from '../assets/hemanth.jpg'
+import charu from '../assets/charu.jpg'
+import om from '../assets/om.jpg'
+import kunj from '../assets/kunj.jpg'
+import karthik from '../assets/karthikv.jpg'
+import ranjan from '../assets/ranjan.jpg'
+import shivam from '../assets/shivam.jpg'
 export const Details = [
     {
       name: "Anuj Kashyap",
@@ -12,7 +19,7 @@ export const Details = [
     {
       name: "Kunj Bihari Singh",
       role: "Vice President",
-      image: person,
+      image: kunj,
       dept: "Civil",
       phone: "+91 6386 751 858",
       linkedin: "https://www.linkedin.com/in/kunj-bihari-singh-176938207/",
@@ -21,7 +28,7 @@ export const Details = [
     {
       name: "Shivam Kumar",
       role: "Treasurer",
-      image: person,
+      image: shivam,
       dept: "Civil",
       phone: "+91 79887 38761",
       linkedin: "https://www.linkedin.com/in/shivam-kumar-weboindia/",
@@ -30,7 +37,7 @@ export const Details = [
     {
       name: "Ranjan Kumar",
       role: "Web Ops Head",
-      image: person,
+      image: ranjan,
       dept: "Metallurgy",
       phone: "+91 73199 31501",
       linkedin: "https://www.linkedin.com/in/ranjan-k-30b2a9220",
@@ -39,7 +46,7 @@ export const Details = [
     {
       name: "Charupriya M",
       role: "Design Head",
-      image: person,
+      image: charu,
       dept: "Chemical",
       phone: "+91 9488780213",
       linkedin: "https://www.linkedin.com/in/charupriya-m-99a946222",
@@ -48,7 +55,7 @@ export const Details = [
     {
       name: "Om Singh",
       role: "Animal Welfare Head",
-      image: person,
+      image: om,
       dept: "Civil",
       phone: "+91 6209038272",
       linkedin: "https://www.linkedin.com/in/om-singh-4507a0228/",
@@ -57,11 +64,20 @@ export const Details = [
     {
       name: "Hemanth Yarra",
       role: "Content and Event Head",
-      image: person,
+      image: hemanth,
       dept: "ECE",
       phone: "+91 7995928266",
       linkedin: "https://www.linkedin.com/in/hemanth-kumar-yarra-050495204/",
       id:7
+    },
+    {
+      name:"Dr.Karthik V",
+      role:"Faculty Advisor",
+      image:karthik,
+      dept:"MME",
+      phone:"+91 9788444987",
+      id:8
+
     }
   ]
   
