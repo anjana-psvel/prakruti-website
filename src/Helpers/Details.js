@@ -1,7 +1,8 @@
-import person from '../assets/person1.jpg'
+// import person from '../assets/person1.jpg'
 import hemanth from '../assets/hemanth.jpg'
+import anuj from '../assets/anuj.png'
 import charu from '../assets/charu.jpg'
-import om from '../assets/om.jpg'
+import om1 from '../assets/om1.jpeg'
 import kunj from '../assets/kunj.jpg'
 import karthik from '../assets/karthikv.jpg'
 import ranjan from '../assets/ranjan.jpg'
@@ -10,7 +11,7 @@ export const Details = [
     {
       name: "Anuj Kashyap",
       role: "President",
-      image: person,
+      image: anuj,
       dept: "M.Tech EEE",
       phone: "8319281801",
       linkedin: "https://www.linkedin.com/in/anuj-kashyap-13a546129/",
@@ -55,7 +56,7 @@ export const Details = [
     {
       name: "Om Singh",
       role: "Animal Welfare Head",
-      image: om,
+      image: om1,
       dept: "Civil",
       phone: "+91 6209038272",
       linkedin: "https://www.linkedin.com/in/om-singh-4507a0228/",
