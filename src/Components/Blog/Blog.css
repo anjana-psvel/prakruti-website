@@ -1,0 +1,17 @@
+.deets{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    place-items: center;
+}
+.contents{
+    /* margin:50px; */
+    background-color: #E8DDAAff;
+    padding-bottom:50px;
+    padding-top:50px;
+}
+@media only screen and (max-width: 1300px) {
+    .deets {
+      grid-template-columns: 1fr;
+    }
+
+  }

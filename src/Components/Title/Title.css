@@ -5,10 +5,11 @@
     font-weight: 600;
     text-transform: uppercase;
     margin:70px 0 30px;
+    /* border: 1px solid darkslategray; */
 }
 .title h2{
     font-size:32px;
     color: darkslategrey;
-    margin-top: 5px;
+    margin: 5px;
     text-transform: none;
 }

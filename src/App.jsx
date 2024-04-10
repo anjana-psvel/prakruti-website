@@ -7,6 +7,7 @@ import About from './Components/About/About';
 import Work from './Components/Works/Work';
 import Footer from './Components/Footer/Footer';
 import Members from './Components/Members/Members';
+import Blog from './Components/Blog/Blog'
 
 const App = () => {
   return (
@@ -33,8 +34,11 @@ const Home = () => {
       <About />
       <Title subTitle="Our Works" />
       <Work />
+      
       <Title subTitle="Members" />
       <Members />
+      <Title subTitle="Insights Hub" />
+      <Blog />
       {/* <Title subTitle="Contact Us" title="Get in touch" /> */}
       <Footer />
 
