@@ -6,7 +6,7 @@ import om1 from '../assets/om1.jpeg'
 import kunj from '../assets/kunj.jpg'
 import karthik from '../assets/karthikv.jpg'
 import ranjan from '../assets/ranjan.jpg'
-import shivam from '../assets/shivam.jpg'
+import shivam from '../assets/shivam.jpeg'
 export const Details = [
     {
       name: "Anuj Kashyap",
